@@ -1,0 +1,29 @@
+_repo: Piano-Mastery--Talks-with-Master-Pianists-and-Teachers_15604
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brower, Harriette
+    birthdate: 1869
+    deathdate: 1928
+    gutenberg_agent_id: '4981'
+    url: http://www.gutenberg.org/2009/agents/4981
+description: Cover -- Contents.
+gutenberg_bookshelf: Music
+gutenberg_issued: '2005-04-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15604'
+  lccn: '15024672'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Piano -- Instruction and study'
+- !lcsh 'Pianists'
+- !lcc 'MT'
+title: 'Piano Mastery: Talks with Master Pianists and Teachers'
+url: http://www.gutenberg.org/ebooks/15604
